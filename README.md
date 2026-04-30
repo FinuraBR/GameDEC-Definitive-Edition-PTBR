@@ -17,7 +17,7 @@ A instalação é simples e direta, adicionando o arquivo de tradução como um 
 
 1.  Acesse a aba **[Releases](https://github.com/FinuraBR/GameDEC-Definitive-Edition-PTBR/releases)** deste repositório e baixe o arquivo `.pak` mais recente.
 2.  Localize a pasta de instalação do seu jogo. Geralmente, o caminho é algo como:
-    `C:\Program Files (x86)\Steam\steamapps\common\GameDEC Definitive Edition\` (ou onde você instalou).
+    `C:\Program Files (x86)\Steam\steamapps\common\gamedec\` (ou onde você instalou).
 3.  Dentro da pasta do jogo, navegue até o seguinte diretório:
     `[PastaDoJogo]\GameDEC\Content\Paks\`
 4.  **Arraste e solte** o arquivo `.pak` que você baixou diretamente nesta pasta (`Paks`).
